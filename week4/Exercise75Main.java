@@ -21,3 +21,4 @@ public class Exercise75Main {
 }
 
 // üli lahe
+// Viimane number peab olema -1
